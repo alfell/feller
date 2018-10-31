@@ -1,0 +1,10 @@
+Package: feller
+Type: Package
+Title: Package to calculate the square of a number and the mode of a vector
+Version: 0.1.0
+Author: Alessandro Feller
+Maintainer: Alessandro Feller <ale_feller@hotmail.com>
+Description: This package contains functions to calculate the square of a number and the mode of a vector.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: yes
